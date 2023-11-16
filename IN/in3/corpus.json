@@ -1,0 +1,45 @@
+{
+	"num": 5,
+	"arguments": [
+		{
+			"type": "unfixed",
+			"value": "/path/to/root",
+			"real_type": "string",
+			"context": false,
+			"skip": false,
+			"name": "root"
+		},
+		{
+			"type": "unfixed",
+			"value": "../subdir/file.txt",
+			"real_type": "string",
+			"context": false,
+			"skip": false,
+			"name": "add"
+		},
+		{
+			"type": "unfixed",
+			"value": "../subdir/file.txt",
+			"real_type": "string",
+			"context": false,
+			"skip": false,
+			"name": "add"
+		},
+		{
+			"type": "unfixed",
+			"value": "../subdir/file.txt",
+			"real_type": "string",
+			"context": false,
+			"skip": false,
+			"name": "add"
+		},
+		{
+			"type": "fixed_32",
+			"value": "15",
+			"real_type": "unsigned int",
+			"context": false,
+			"skip": false,
+			"name": "add"
+		}
+	]
+}
